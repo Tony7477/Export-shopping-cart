@@ -1,2 +1,2 @@
-# Export-shopping-cart
-This is inspired by an idea which we can transport items from one country to another country.creating an application with spring boot and react ,redux,bootstrap
+shopping-cart
+This is inspired by an idea from shopping apps like flipkart,amazon fcreating rest-api  with spring boot and mysql. 
